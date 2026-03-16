@@ -7210,6 +7210,18 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/game.js 1
     </a>
   </div>
   <div
+    style={
+      Object {
+        "color": "#9ba4ab",
+        "fontSize": "12px",
+        "padding": "0 20px 12px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Forked by jalis55
+  </div>
+  <div
     className="jsx-3447036960 header"
   >
     <div
@@ -7896,6 +7908,18 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/game-adde
     </a>
   </div>
   <div
+    style={
+      Object {
+        "color": "#9ba4ab",
+        "fontSize": "12px",
+        "padding": "0 20px 12px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Forked by jalis55
+  </div>
+  <div
     className="jsx-3447036960 header"
   >
     <div
@@ -8289,6 +8313,18 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/games-add
         Help make Flatris better
       </button>
     </a>
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#9ba4ab",
+        "fontSize": "12px",
+        "padding": "0 20px 12px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Forked by jalis55
   </div>
   <div
     className="jsx-3447036960 header"
@@ -8686,6 +8722,18 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/no-games.
     </a>
   </div>
   <div
+    style={
+      Object {
+        "color": "#9ba4ab",
+        "fontSize": "12px",
+        "padding": "0 20px 12px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Forked by jalis55
+  </div>
+  <div
     className="jsx-3447036960 header"
   >
     <div
@@ -9079,6 +9127,18 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/own-game.
         Help make Flatris better
       </button>
     </a>
+  </div>
+  <div
+    style={
+      Object {
+        "color": "#9ba4ab",
+        "fontSize": "12px",
+        "padding": "0 20px 12px",
+        "textAlign": "center",
+      }
+    }
+  >
+    Forked by jalis55
   </div>
   <div
     className="jsx-3447036960 header"

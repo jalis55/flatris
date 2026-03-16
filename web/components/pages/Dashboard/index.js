@@ -193,6 +193,16 @@ class Dashboard extends Component<Props, LocalState> {
               <Button bgColor={COLORS.T}>Help make Flatris better </Button>
             </a>
           </div>
+          <div
+            style={{
+              padding: '0 20px 12px',
+              textAlign: 'center',
+              fontSize: '12px',
+              color: '#9ba4ab'
+            }}
+          >
+            Forked by jalis55
+          </div>
           <div className="header">
             <div className="left new-game-button">
               <Link href="/new">
