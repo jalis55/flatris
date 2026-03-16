@@ -7205,11 +7205,12 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/game.js 1
         className="jsx-48536898 button hover-button"
         type="button"
       >
-        Help make Flatris better
+        Help make Flatris better 
       </button>
     </a>
   </div>
   <div
+    className="jsx-3447036960"
     style={
       Object {
         "color": "#9ba4ab",
@@ -7903,11 +7904,12 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/game-adde
         className="jsx-48536898 button hover-button"
         type="button"
       >
-        Help make Flatris better
+        Help make Flatris better 
       </button>
     </a>
   </div>
   <div
+    className="jsx-3447036960"
     style={
       Object {
         "color": "#9ba4ab",
@@ -8310,11 +8312,12 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/games-add
         className="jsx-48536898 button hover-button"
         type="button"
       >
-        Help make Flatris better
+        Help make Flatris better 
       </button>
     </a>
   </div>
   <div
+    className="jsx-3447036960"
     style={
       Object {
         "color": "#9ba4ab",
@@ -8717,11 +8720,12 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/no-games.
         className="jsx-48536898 button hover-button"
         type="button"
       >
-        Help make Flatris better
+        Help make Flatris better 
       </button>
     </a>
   </div>
   <div
+    className="jsx-3447036960"
     style={
       Object {
         "color": "#9ba4ab",
@@ -9124,11 +9128,12 @@ exports[`renders fixtures: web/components/pages/Dashboard/__fixtures__/own-game.
         className="jsx-48536898 button hover-button"
         type="button"
       >
-        Help make Flatris better
+        Help make Flatris better 
       </button>
     </a>
   </div>
   <div
+    className="jsx-3447036960"
     style={
       Object {
         "color": "#9ba4ab",
